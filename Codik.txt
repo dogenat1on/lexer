@@ -1,0 +1,3 @@
+
+int test = kali4 - banan;
+int intager = intim - intern;
